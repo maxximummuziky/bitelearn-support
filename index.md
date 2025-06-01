@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
+# Welcome to Bitelearn app
 
 Need help with the app? We're here to help.
 
