@@ -3,7 +3,7 @@ layout: default
 title: Bitelearn
 ---
 
-<img src="/logo.png" alt="MyApp Logo" width="120" style="margin-bottom: 20px;">
+<img src="/logo.png" alt="Bitelearn Logo" width="120" style="margin-bottom: 20px;">
 
 # Welcome to Bitelearn Support
 
