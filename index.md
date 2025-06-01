@@ -3,8 +3,11 @@ layout: default
 title: Bitelearn
 ---
 
-# Support for Bitelearn
+<img src="/logo.png" alt="MyApp Logo" width="120" style="margin-bottom: 20px;">
 
-If you need help, email [support@bitelearn.mn](mailto:support@bitelearn.mn)
+# Welcome to Bitelearn Support
 
-[Privacy Policy](privacy.html)
+Need help with the app? We're here to help.
+
+<a href="mailto:support@bitelearn.mn" class="btn">Email Support</a>
+<a href="/privacy.html" class="btn">Privacy Policy</a>
