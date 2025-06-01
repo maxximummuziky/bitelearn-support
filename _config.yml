@@ -1,5 +1,8 @@
 title: Bitelearn Support
-theme: jekyll-theme-cayman  # or cayman, slate, etc.
+description: Get help with Bitelearn
+theme: minima
+show_excerpts: false
+logo: /logo.png
 
-github:
-  is_project_page: false
+# Remove GitHub footer
+github_username: false
