@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Privacy
 ---
 
 We respect your privacy. MyApp does not collect or store personal data.
