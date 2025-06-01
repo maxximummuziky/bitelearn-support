@@ -1,2 +1,5 @@
 title: Bitelearn Support
 theme: jekyll-theme-cayman  # or cayman, slate, etc.
+
+github:
+  is_project_page: false
