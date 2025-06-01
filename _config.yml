@@ -1,5 +1,6 @@
 title: Bitelearn
 description: Get help with Bitelearn
+url: https://support.bitelearn.mn
 theme: minima
 show_excerpts: false
 logo: /logo.png
@@ -8,3 +9,6 @@ github_username: false
 
 author: Oyun Chess LLC
 email: support@bitelearn.mn
+
+header_pages:
+  - privacy.md

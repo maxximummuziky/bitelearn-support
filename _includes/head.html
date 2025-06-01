@@ -1,0 +1,5 @@
+{%- if site.theme -%}
+  {{ site.theme | prepend: '/assets/css/' | relative_url | append: '.css' | stylesheet_tag }}
+{%- endif -%}
+
+<link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
