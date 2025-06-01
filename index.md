@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bitelearn Support
+title: Bitelearn
 ---
 
 # Support for Bitelearn
