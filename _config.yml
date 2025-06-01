@@ -3,6 +3,4 @@ description: Get help with Bitelearn
 theme: minima
 show_excerpts: false
 logo: /logo.png
-
-# Remove GitHub footer
 github_username: false
