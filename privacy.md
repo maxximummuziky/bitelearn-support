@@ -18,7 +18,7 @@ For the purposes of this Privacy Policy:
 - Account means a unique account created for You to access our Service or parts of our Service.
 - Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - Application refers to Bitelearn, the software program provided by the Company.
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Oyun Chess LLC, No. 1205, Akoya cemter, Khanuul District, 18th District, Ulaanbaatar City, Mongolia.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Oyun Chess LLC, No. 1205, Akoya center, Khanuul District, 18th District, Ulaanbaatar City, Mongolia.
 - Country refers to: Mongolia
 - Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - Personal Data is any information that relates to an identified or identifiable individual.
@@ -128,7 +128,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
-
 - [support@bitelearn.mn](mailto:support@bitelearn.mn)
-
-#
