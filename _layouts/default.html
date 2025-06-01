@@ -6,12 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/@primer/css@^19.0.0/dist/primer.css">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+      .logo-header {
+        text-align: center;
+        padding: 2rem 0 1rem;
+      }
+      .logo-header img {
+        height: 80px;
+      }
+    </style>
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ site.description }}</h2>
-    </section>
+    <div class="logo-header">
+      <img src="{{ '/logo.png' | relative_url }}" alt="MyApp Logo">
+    </div>
 
     <section class="main-content">
       {{ content }}
