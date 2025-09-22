@@ -111,9 +111,13 @@ The security of Your Personal Data is important to Us, but remember that no meth
 
 ## Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Our Service is available to children under the age of 13. We take the privacy of young users very seriously and comply with applicable laws, including the Children’s Online Privacy Protection Act (COPPA).
+Parental Consent: We do not collect personal information from children under 13 without prior, verifiable consent from a parent or legal guardian.
+Type of Data Collected: We only collect the minimum information necessary to provide our Service (e.g., username, progress data, or parent’s contact details).
+Use of Data: Any information collected from children is used solely to support the internal operations of the Service and to improve the learning experience.
+Sharing of Data: We do not share children’s personal information with third parties for marketing or advertising purposes. Data may only be shared with service providers who help us operate the Service, under strict confidentiality agreements.
 
+Parental Rights: Parents can review, manage, or request deletion of their child’s information at any time by contacting us at [your support email].
 ## Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
